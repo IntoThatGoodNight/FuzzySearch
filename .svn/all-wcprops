@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/6/trunk/src/ru/fuzzysearch
+END
+Alphabet.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/Alphabet.java
+END
+NGramSearcherM2.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/NGramSearcherM2.java
+END
+NGramIndexerM1.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/NGramIndexerM1.java
+END
+NGramSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/NGramSearcher.java
+END
+SignHashSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/SignHashSearcher.java
+END
+IntComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/src/ru/fuzzysearch/IntComparator.java
+END
+Normalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/Normalizer.java
+END
+Metric.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/Metric.java
+END
+RussianAlphabet.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/RussianAlphabet.java
+END
+SkipIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/src/ru/fuzzysearch/SkipIndexer.java
+END
+ExtensionSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/ExtensionSearcher.java
+END
+BKTreeSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/BKTreeSearcher.java
+END
+EnglishAlphabet.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/EnglishAlphabet.java
+END
+NGramIndexM2.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/NGramIndexM2.java
+END
+SignHashIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/SignHashIndex.java
+END
+NGramIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/NGramIndex.java
+END
+WordOnlineSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/WordOnlineSearcher.java
+END
+OnlineSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/OnlineSearcher.java
+END
+WordIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/WordIndex.java
+END
+BKTreeIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/BKTreeIndex.java
+END
+ExtensionIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/ExtensionIndex.java
+END
+Index.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/Index.java
+END
+BinarySearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/BinarySearch.java
+END
+NGramSearcherM1.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/NGramSearcherM1.java
+END
+LevensteinMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/LevensteinMetric.java
+END
+BitapOnlineSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/BitapOnlineSearcher.java
+END
+NGramIndexerM2.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/NGramIndexerM2.java
+END
+SkipSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/src/ru/fuzzysearch/SkipSearcher.java
+END
+NGramIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/NGramIndexer.java
+END
+SignHashIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/SignHashIndexer.java
+END
+WordSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/WordSearcher.java
+END
+UnionAlphabet.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/UnionAlphabet.java
+END
+SimpleAlphabet.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/SimpleAlphabet.java
+END
+NGramIndexM1.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/NGramIndexM1.java
+END
+ExtensionIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/ExtensionIndexer.java
+END
+BKTreeIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/BKTreeIndexer.java
+END
+Searcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/Searcher.java
+END
+SkipIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/src/ru/fuzzysearch/SkipIndex.java
+END
+Indexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/Indexer.java
+END
+Dictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/Dictionary.java
+END
+MetricOnlineSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/MetricOnlineSearcher.java
+END
+IntArrays.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/src/ru/fuzzysearch/IntArrays.java
+END
+FuzzySearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/src/ru/fuzzysearch/FuzzySearch.java
+END
+DamerauLevensteinMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/ru/fuzzysearch/DamerauLevensteinMetric.java
+END
